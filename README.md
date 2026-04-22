@@ -27,7 +27,7 @@ The failed login appeared first as Event ID 4625, followed 9 seconds later by Ev
 
 This showed how timestamp comparison helps explain whether failed authentication was followed by normal user access.
 
-<img src="images/Event ID 4624 Successful Login Timeline.png" alt="Event ID 4624 Successful Login Timeline" width="700"/>
+<img src="images/Windows Server Event Viewer Security Log.png" alt="Windows Server Event Viewer Security Log" width="700"/>
 
 Event Sequence Interpretation
 
